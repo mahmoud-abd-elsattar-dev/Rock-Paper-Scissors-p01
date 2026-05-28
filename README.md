@@ -47,15 +47,6 @@ The player with the most round wins takes the game. If equal, it's a Draw.
 
 ---
 
-## 🏗️ Project Structure
-
-```
-RockPaperScissors/
-│
-├── main.cpp          # Full source code
-└── README.md         # Project documentation
-```
-
 ### Key Components
 
 | Component | Description |
