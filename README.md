@@ -72,40 +72,6 @@ RockPaperScissors/
 
 ---
 
-## ⚙️ Requirements
-
-- **Compiler**: Any C++11-compatible compiler (e.g., GCC, MSVC, Clang)
-- **OS**: Windows (uses `system("cls")` for screen clearing)
-
----
-
-## 🚀 Getting Started
-
-### Compile
-
-```bash
-g++ main.cpp -o RockPaperScissors
-```
-
-### Run
-
-```bash
-./RockPaperScissors
-```
-
-> ⚠️ **Note**: The screen-clearing feature relies on the Windows console command (`cls`). On Linux/macOS, this call will have no effect but the game will still run correctly.
-
----
-
-## 🔮 Possible Improvements
-
-- Allow the player to choose the number of rounds
-- Add a score history across multiple games
-- Replace `system()` calls with cross-platform alternatives
-- Add a best-of-N mode
-
----
-
 ## 📄 License
 
 This project is open source and free to use for educational purposes.
@@ -114,6 +80,6 @@ This project is open source and free to use for educational purposes.
 
 ## 👤 Author
 
-👤 **Ahmed Mohamed**  
-📧 ahmed.mohamed@example.com  
-💼 [linkedin.com/in/ahmed-mohamed](https://linkedin.com/in/ahmed-mohamed)
+👤 **Mahmoud Abd El-Sattar**  
+📧 mahmoud.abdelsattar.dev@gmail.com  
+💼 https://www.linkedin.com/in/mahmoud-abd-el-sattar-1b227522a
